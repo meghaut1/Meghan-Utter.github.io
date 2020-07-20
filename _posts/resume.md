@@ -1,6 +1,21 @@
 --- 
 title: "Meghan Utter resume"
-layout: resume
+layout: post
+title: Resume
+author: Meghan Utter
+post_list: "date"
+toc: true
+home_btn: true
+btn_text: true
+footer: true
+maximize: true
+encrypted_text: true
+toc_level: 4
+category: Sample
+date: 2019-5-25
+excerpt: "Education: UMBC"
+abstract: "basic info"
+---
 ---
 # Meghan Utter
 
