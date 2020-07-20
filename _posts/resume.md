@@ -1,9 +1,8 @@
 --- 
-title: "Meghan Utter resume"
 layout: post
 title: Resume
 author: Meghan Utter
-post_list: "date"
+date: 2020-7-20
 toc: true
 home_btn: true
 btn_text: true
@@ -11,7 +10,7 @@ footer: true
 maximize: true
 encrypted_text: true
 toc_level: 4
-category: Sample
+category: Dummy
 date: 2019-5-25
 excerpt: "Education: UMBC"
 abstract: "basic info"
