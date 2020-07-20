@@ -11,7 +11,7 @@ encrypted_text: true
 permalink: /
 ---
 
-# PROJECT NEGYA - HACKER-STYLE PERSONAL HOMEPAGE
+# Meghan Utter - PERSONAL HOMEPAGE
 
 ##  Features
 * Highly customizable, content-oriented with The Matrix style
